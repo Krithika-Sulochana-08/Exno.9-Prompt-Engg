@@ -1,6 +1,6 @@
 # **Ex. No. 9 – Exploration of Prompting Techniques for AI Video Generation**
 
-**Date:** 04/11/2025
+**Date:** 28/10/2025
 
 **Register No.:** 212223060130
 
